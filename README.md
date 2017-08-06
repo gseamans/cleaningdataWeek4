@@ -9,4 +9,12 @@ Create on R script called run_analysis.R that:
  - Uses description activity names to name the activities in the data set
  - Appropriately labels the data set with descriptive variable names
  - From the data set in step4, creates a second, independent tidy data set with the average
-  of each variable fro each activity and each subject.
+  of each variable for each activity and each subject.
+  
+## Files and Directories
+ 
+ - run_analysis.R contains the script that was used to create the
+ combined and tidy datasets
+ - tidyTable.csv contains the tidy data table, in csv format, that was created
+ - CodeBook.md contains additional information on the data and methods used for 
+ transformation
