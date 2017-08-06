@@ -129,4 +129,4 @@ Next a dataframe was created for the test data and one for the training data by 
 
 The *subject* and *activity* fields in the *combinedData* dataframe were converted to factors and the *activity* factors were replaced with the activity labels to make the tables more readable.
 
-In the final step the *tidyTable* was created using the *aggregate()* function to record only the unique *subject*/*activity* combinations along with the mean of the associated measurements. The *tidyTable* was then written out as a CSV file and added to the repository.
+In the final step the *tidyTable* was created using the *aggregate()* function to record only the unique *subject*/*activity* combinations along with the mean of the associated measurements. The *tidyTable* was then written out as a CSV file and added to the repository. An additional copy was uploaded per the assignment submission instructions.
